@@ -1,7 +1,7 @@
 <h1 align="center" Hello there! I'm Santiago Altamira</h1>
 
 <p align="center">
-I'm a software developer graduated from LE WAGON and currently finishing my studies in another bootcamp, <a href="https://www.soyhenry.com/">SOY HENRY</a>.   
+I'm a software developer graduated from <a href="https://www.lewagon.com/">LE WAGON</a>and currently finishing my studies in another bootcamp, <a href="https://www.soyhenry.com/">SOY HENRY</a>.   
 </p>
 <p align="center"> 
 When I'm not coding find me taking photos or trying to jump out of the nearest plane.
