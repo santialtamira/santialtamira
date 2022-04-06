@@ -1,10 +1,12 @@
-<h1 align="center"> Hello there! I'm Santiago Altamira</h1>
+<h1 align="center"> Hello there! I'm Santiago Altamira 🚀</h1>
+
+&nbsp;&nbsp;
 
 <p align="center">
 I'm a software developer graduated from <a href="https://www.lewagon.com/">LE WAGON</a> and currently finishing my studies in another bootcamp, <a href="https://www.soyhenry.com/">SOY HENRY</a>.   
 </p>
 <p align="center"> 
-When I'm not coding, find me practicing any sport or talking about new technologies that are changing the world.
+When I'm not coding, find me practicing any sport or talking about new technologies that are changing the world :earth_americas:.
 </p>
 
 <div align="center">
@@ -45,21 +47,27 @@ When I'm not coding, find me practicing any sport or talking about new technolog
 
 ### What I always play with
 <p> 
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" alt="rails-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
+  <code><img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
+  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <br />
 </p>
 
 <br>
 
-### What I sometimes play with
-<p>
-  
-</p>
+
 
 <br>
 
@@ -75,39 +83,9 @@ When I'm not coding, find me practicing any sport or talking about new technolog
 
 
  <!--
-
-<div > 
-<a name="learning-now"></a>
-
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-&nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-&nbsp;
-
-<a name="learning-next"></a>
-</div>
-
-<br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santialtamira&layout=compact&theme=dark&hide_border=true)
-
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=santialtamira&show_icons=true&hide_border=true&theme=dark)
-
-<br>
-
-
+### What I sometimes play with
+<p>
+  
+</p>
 
 -->
