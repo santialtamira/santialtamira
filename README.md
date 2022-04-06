@@ -9,7 +9,7 @@ When I'm not coding, find me practicing any sport or talking about new technolog
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-santialtamira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-altamira/?locale=en_US)](https://www.linkedin.com/in/sy-rashid/)
+  [![Linkedin Badge](https://img.shields.io/badge/-santialtamira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-altamira/?locale=en_US)](https://www.linkedin.com/in/santiago-altamira/?locale=en_US)
   
   [![Gmail Badge](https://img.shields.io/badge/-santiagoaltamira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santiagoaltamira@gmail.com)](mailto:santiagoaltamira@gmail.com)
 </div>
