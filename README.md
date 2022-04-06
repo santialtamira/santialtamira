@@ -10,7 +10,6 @@ When I'm not coding, find me practicing any sport or talking about new technolog
 <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-santialtamira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-altamira/?locale=en_US)](https://www.linkedin.com/in/santiago-altamira/?locale=en_US)
-  
   [![Gmail Badge](https://img.shields.io/badge/-santiagoaltamira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santiagoaltamira@gmail.com)](mailto:santiagoaltamira@gmail.com)
 </div>
 <br>
@@ -20,26 +19,23 @@ When I'm not coding, find me practicing any sport or talking about new technolog
  ```ruby
  class Sy < Person
    def initialize
-     @name = 'Sy Rashid'
-     @age = 30
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech', 'HBX/HBS' 'Le Wagon', 'Georgia Tech... again?' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+     @name = 'Santiago Altamira'
+     @work = [ 'Bakus CRM', 'Grupo tres Torres' ]
+     @education = [ 'Maastricht Univeersity', 'Le Wagon', 'Soy Henry' ]
+     @hobbies = [ 'Football', 'Friends and Family', 'Outdoor activities' ]
    end
 
    def current_location
-     'Lisbon, Portugal'
+     'Barcelona, Spain'
    end
 
    def next_location
-     'Ireland'
+     'Open to relocation on a global level'
    end
 
    def currently
      {
-       enrolled: 'Vue - Frontend Masters',
-       reading: ['Algorithms to Live By', 'Rails AntiPatterns'],
-       tinkering: 'StimulusJS'
+       Finishing up my group work for soy henry's bootcamp.
       }
    end
  end
@@ -62,25 +58,7 @@ When I'm not coding, find me practicing any sport or talking about new technolog
 
 ### What I sometimes play with
 <p>
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/soap_oujliq.png" alt="soap-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849658/aws_zdxicw.jpg" alt="aws-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849657/ux-ui-logo_g1gptz.png" alt="ux-ui-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/stripe_wpdp4s.png" alt="stripe-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/algolia_pgipvv.png" alt="algolia-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849654/websockets_owvtbv.png" alt="websockets-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/redis_xtyczu.png" alt="redis-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/google_gqugc7.png" alt="autocomplete-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849653/node-js_tkywbk.png" alt="nodejs-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/sweetalert_fizd2k.png" alt="sweetalert-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/linkedin_obs3m2.png" alt="linkedin-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849652/pwa-logo_nxppg4.png" alt="pwa-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/new_cloudinary_logo_square_kninl9.png" alt="cloudinary-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/postmark_o4dr2s.png" alt="postmark-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849650/twilio_j6qvbk.png" alt="twilio-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googlemaps_uujgzn.png" alt="googlemaps-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849651/googledeveloper_dpefgw.png" alt="google-dev-logo">
+  
 </p>
 
 <br>
@@ -88,20 +66,15 @@ When I'm not coding, find me practicing any sport or talking about new technolog
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![Santi's github stats](https://github-readme-stats.vercel.app/api?username=santialtamira&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Santi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santialtamira&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
+<br>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi,  I'll be happy to meet you more! :)
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syrashid) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid)
 
 
  <!--
-
-### Hi, I'm Santiago Altamira! 👋
-<br>
-
-## 🛠  Technologies and tools
 
 <div > 
 <a name="learning-now"></a>
@@ -135,17 +108,6 @@ When I'm not coding, find me practicing any sport or talking about new technolog
 
 <br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi,  I'll be happy to meet you more! :)
 
-  
 
-**santialtamira/santialtamira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 -->
