@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is SAnti
+
+What I always play with
+html-logo js-logo css-logo postgres-logo ruby-logo rails-logo figma-logo
 
 <!--
 **santialtamira/santialtamira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
