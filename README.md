@@ -10,6 +10,7 @@
 
 ## 🛠  Technologies and tools
 
+<div style= displey-flex> 
 <a name="learning-now"></a>
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -37,6 +38,7 @@
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 
 <a name="learning-next"></a>
+</div>
 
 <!--
 **santialtamira/santialtamira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
