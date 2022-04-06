@@ -1,17 +1,17 @@
-<h1 align="center" Hello there! I'm Santiago Altamira</h1>
+<h1 align="center"> Hello there! I'm Santiago Altamira</h1>
 
 <p align="center">
 I'm a software developer graduated from <a href="https://www.lewagon.com/">LE WAGON</a>and currently finishing my studies in another bootcamp, <a href="https://www.soyhenry.com/">SOY HENRY</a>.   
 </p>
 <p align="center"> 
-When I'm not coding find me taking photos or trying to jump out of the nearest plane.
+When I'm not coding, find me practicing any sport or talking about new technologies that are changing the world.
 </p>
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
-  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiago-altamira/?locale=en_US)](https://www.linkedin.com/in/sy-rashid/)
+  
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santiagoaltamira@gmail.com)](mailto:santiagoaltamira@gmail.com)
 </div>
 <br>
 
